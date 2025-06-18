@@ -7,7 +7,10 @@ A personal repository of bite-sized Python exercises demonstrating core programm
 
 Each exercise resides in its own numbered folder:
 
-- `01_greet/` : user input and output  
+- `01_greet/` : user input and output
+- `02_age_validator/` : Checks voting eligibility based on age input, with error handling.  
+ 
+
 
 Additional exercises will be added over time.
 
